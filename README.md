@@ -9,9 +9,10 @@ Scraped items<br>
 • Product Price<br>
 • Rating<br>
 • Number of reviews<br>
-sub details -- Description<br>
-            -- ASIN<br>
-            -- Product Description<br>
-            -- Manufacturer<br>
+Sub details<br>
+-- Description<br>
+-- ASIN<br>
+-- Product Description<br>
+-- Manufacturer<br>
 <br>
 sample data in amazon_bags.json
